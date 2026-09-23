@@ -21,5 +21,3 @@ def generate_remark(grade):
         }
 
     return remarks.get(grade, "Invalid Grade")
-
-print ('hi')
